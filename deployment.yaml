@@ -17,3 +17,4 @@ spec:
         image: akshaysaji1/my-app:latest
         ports:
         - containerPort: 8080
+        
